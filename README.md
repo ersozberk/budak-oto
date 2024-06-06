@@ -4,6 +4,8 @@
 
 Budak Otomotiv, İzmir, Türkiye merkezli lüks ve bütçeye uygun araçlar konusunda uzmanlaşmış lider bir ticaret şirketidir. Bu proje, Budak Otomotiv'in geniş araç yelpazesini, müşteri odaklı hizmetlerini ve sorunsuz satın alma deneyimini iOS platformunda sunmayı amaçlar.
 
+![Proje Logosu](https://github.com/ersozberk/budak-oto/blob/main/public_images/Ekran%20Resmi%202024-06-04%2008.57.22.png?raw=true)
+
 ## Özellikler
 
 - **Geniş Araç Yelpazesi**: Spor arabalar, SUV'lar ve aile dostu sedanlar dahil çeşitli araç seçenekleri.
